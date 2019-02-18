@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab0a710-448d-416a-9c77-f5e2aa10c16c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatthewAnthony_IOTSecurity.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MatthewAnthony_IOTSecurity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatthewAnthony_IOTSecurity.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MatthewAnthony_IOTSecurity.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -24,8 +23,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MatthewAnthony_IOTSecurity.png">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/MatthewAnthony_IOTSecurity.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -61,7 +60,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550501943665" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550504605607" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/MatthewAnthony_IOTSecurity.png" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,7 +89,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -131,6 +131,9 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/MatthewAnthony_IOTSecurity.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
