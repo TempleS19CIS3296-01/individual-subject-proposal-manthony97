@@ -1,7 +1,6 @@
 # Project Description: 
-The IOT Security Project will be designed for households to be able to scan their home networks and see if there are any current security
-holes in their network. The program will print an audit of all IOT devices that are currently connected to thier network. This audit will
-include firmware versions, whether a new firmware exits or not, help on how to update, and results from port scans. 
+The IoT Security Project will be designed for households to be able to scan their home networks and see if there are any current security
+holes in their network. The program will print an audit of all the IoT devices that are currently connected to thier network. This audit will include firmware versions, whether a new firmware version exits or not, help on how to update, and results from port scans. 
 
 # Educational Goals: 
 
