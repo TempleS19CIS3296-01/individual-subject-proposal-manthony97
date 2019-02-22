@@ -4,11 +4,17 @@ holes in their network. The program will print an audit of all IOT devices that 
 include firmware versions, whether a new firmware exits or not, help on how to update, and results from port scans. 
 
 # Educational Goals: 
-The goals of this project will teach source code management, along with integration of network scanning code within Java. This project will
-also include test driven development. All of these are important with the growth of IOT Security. 
+
+With the rising growth in IoT Security, this project will introduce students into the major problems of IoT Security including:
+1. The growth of devices on each network
+2. Updating
+3. Protecting data
+4. Making things easy for the lazy consumer
+
+This project will also include Test Driven Development, source code management, and Internet Protocol applications inside java. 
 
 # Proposed Contribution:
-I plan on creating an open-source project, and starting from the ground up.
+This project will be created from scratch and will be an open source project. There are a few programs readily available that accomplish the same goals, but with the rapid growth of IoT Security, the fundamentals are very important.  
 
 ## Url Reference:
 https://www.bitdefender.com/solutions/home-scanner.html
